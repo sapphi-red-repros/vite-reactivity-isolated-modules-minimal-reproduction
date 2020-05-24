@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-beta.14"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-beta.14",
+    "typescript": "^3.9.3",
+    "vite": "^0.16.10"
+  }
+}
